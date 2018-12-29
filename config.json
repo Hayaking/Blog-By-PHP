@@ -1,0 +1,17 @@
+{
+    "intro" :"haya's blog",
+    "github" : "https://github.com/Hayaking",
+    "weibo" : "http://www.sina.com",
+    "csdn" : "https://blog.csdn.net/HuaLingPiaoXue",
+
+    "avatar": "avatar.jpg",
+
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad animi at blanditiis consectetur corporisdeleniti dignissimos, doloremque est ipsum laborum libero minima, minus nihil nobis possimus quasi repellat, reprehenderit voluptas",
+    "connect": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad animi at blanditiis consectetur corporisdeleniti dignissimos, doloremque est ipsum laborum libero minima, minus nihil nobis possimus quasi repellat, reprehenderit voluptas",
+    "link": [
+        {"name": "百度", "url": "http://www.baidu.com"},
+        {"name": "it之家", "url": "http://www.baidu.com"},
+        {"name": "煎蛋", "url": "http://www.baidu.com"}
+    ]
+
+}
